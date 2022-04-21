@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mili288
-- 👀 I’m interested in everything javascript related for now.
-- 🌱 I’m currently learning javascript/react.
+- 👀 I’m interested in everything javascript related.
+- 🌱 I’m currently making javascript/react websites.
 - 💞️ I’m looking to collaborate on fun stuff.
 - 📫 How to reach me: Discord Mili #9111, or twitter dms @MiliGojani :).
 
