@@ -3,6 +3,7 @@
 - 🌱 I’m currently making javascript/react websites.
 - 💞️ I’m looking to collaborate on fun stuff.
 - 📫 How to reach me: Discord Mili #9111, or twitter dms @MiliGojani :).
+- https://neon-treacle-7ffd9a.netlify.app/ and this is my portfolio.
 
 <!---
 mili288/mili288 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
