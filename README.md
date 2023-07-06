@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mili288
-- 👀 I’m interested in everything javascript related.
-- 🌱 I’m currently making javascript/react websites.
+- 👀 I’m interested in everything javascript and Node js Related.
+- 🌱 I’m currently making Node and React websites.
 - 💞️ I’m looking to collaborate on fun stuff.
 - 📫 How to reach me: Discord Mili #9111, or twitter dms @MiliGojani :).
 - https://neon-treacle-7ffd9a.netlify.app/ and this is my portfolio.
