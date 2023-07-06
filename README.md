@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mili288
+- 👋 Hi, I’m @mili288 im a Full-Stack Web Developer i work with Node js and React also currently learning React Native.
 - 👀 I’m interested in everything javascript and Node js Related.
 - 🌱 I’m currently making Node and React websites.
 - 💞️ I’m looking to collaborate on fun stuff.
